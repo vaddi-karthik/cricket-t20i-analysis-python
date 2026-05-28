@@ -27,11 +27,10 @@ The goal is to analyze player and country-level batting performance to uncover t
 ```
 Cricket-T20I-Analysis/
 │
-├── espncricinfo_scraper.py          # Web scraping script
+├── T20i_Scraping_Code               # Web scraping script
 ├── T20i_batting_stats.csv           # Raw scraped data
 ├── T20i_batting_stats_cleaned.csv   # Cleaned data
-├── Cricket_T20I_Analysis.ipynb      # Main Jupyter Notebook (EDA)
-├── Cricket_T20I_Analysis.pptx       # Project presentation
+├── EDA_T20i                         # Main Jupyter Notebook (EDA)
 └── README.md                        # Project documentation
 ```
 
