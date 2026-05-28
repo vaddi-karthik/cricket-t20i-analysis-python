@@ -5,7 +5,6 @@
 ![BeautifulSoup](https://img.shields.io/badge/BeautifulSoup4-scraping-orange?style=flat)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-visualization-red?style=flat)
 ![Seaborn](https://img.shields.io/badge/Seaborn-visualization-teal?style=flat)
-![License](https://img.shields.io/badge/License-MIT-yellow?style=flat)
 
 ---
 
